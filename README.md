@@ -8,10 +8,12 @@
 
 ## My skills
 <div style="display:flex;">
-<img width="100" height="100" src="https://images.tutorialedge.net/images/node.png"  />
-<img width="100" height="100" src="https://br.vuejs.org/images/logo.png"  />
-<img width="85" height="100" src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg"  />
-<img width="85" height="100" src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg"  />
+<img width="40" height="50" src="https://images.tutorialedge.net/images/node.png"  />
+<img width="40" height="40" src="https://br.vuejs.org/images/logo.png"  />
+<img width="50" height="50" src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg"  />
+<img width="50" height="50" src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg"  />
+<img width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png"  />
+    
 </div>
 
 
