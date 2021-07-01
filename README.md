@@ -24,7 +24,7 @@
 ## Contact Me 
 <div style="display:flex;">
 <a href="https://www.linkedin.com/in/jc-jord/"><img  width="30" height="30" src="https://image.flaticon.com/icons/png/512/174/174857.png"/></a>
-<a href="https://api.whatsapp.com/send/?phone=5511941296138&text&app_absent=0"><img  width="40" height="40" src="https://image.flaticon.com/icons/png/512/733/733585.png"/></a>
+<a href="https://api.whatsapp.com/send/?phone=5511941296138&text&app_absent=0"><img  width="30" height="30" src="https://image.flaticon.com/icons/png/512/733/733585.png"/></a>
        
 <a href="https://telegram.me/jcjord"><img  width="30" height="30" src="https://image.flaticon.com/icons/png/512/2111/2111646.png"/></a>
 
