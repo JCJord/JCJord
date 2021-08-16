@@ -1,4 +1,4 @@
- ## Olá! Eu sou Julio César
+ ## Olá! Eu sou o Júlio César
 <div>
   <a href="https://github.com/JCJord">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JCJord&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
