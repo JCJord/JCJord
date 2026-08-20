@@ -1,45 +1,40 @@
-# Júlio César
+Júlio César
+Full Stack Developer | Angular • TypeScript • Java • C • Docker
 
-Full Stack Developer | JavaScript • TypeScript • Vue.js • Node.js • Docker
+About
+Building scalable web applications with a strong focus on full-stack development interfaces, performance, and clean architecture. I enjoy tackling complex DOM-dependent visual layout challenges and building deterministic, programmatic solutions. Experienced across frontend, backend, and containerized development environments on Linux.
 
----
-
-## About
-
-Building scalable web applications with focus on performance and clean architecture. Experienced in frontend, backend, and DevOps.
-
----
-
-## Quick Stats
-
+Quick Stats
 Visit my GitHub profile to see:
-- Contribution graph
-- Repository activity
-- Language breakdown by project
 
-[View GitHub Profile](https://github.com/JCJord)
+Contribution graph
 
----
+Repository activity
 
-## Tech Stack
+Language breakdown by project
 
-**Languages:** JavaScript, TypeScript  
-**Frontend:** Vue.js, Angular, HTML5, CSS3, Sass  
-**Backend:** Node.js  
-**DevOps:** Docker  
+View GitHub Profile
 
----
+Tech Stack
+Languages: TypeScript, JavaScript, Java, C
 
-## What I Do
+Frontend: Angular, Vue.js, HTML5, CSS3, Sass
 
-- Full stack web application development
-- API design and implementation
-- Frontend optimization and performance
-- Docker containerization and deployment
-- Clean code and architecture patterns
+Backend: Node.js, Java
 
----
+DevOps & Environment: Docker, Ubuntu Linux
 
-## Featured Projects
+Tools: Puppeteer, AI Engineering workflows (Claude, Antigravity)
 
-Visit my [repositories](https://github.com/JCJord?tab=repositories) to see recent work.
+What I Do
+Full-stack web application development and interface design
+
+Complex architectural problem-solving (e.g., dynamic DOM scaling and pagination)
+
+Mobile-first UI development and component routing
+
+Docker containerization, database management, and deployment
+
+Clean code and architecture patterns
+
+Visit my repositories to see my active work and open-source contributions.
