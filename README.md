@@ -12,7 +12,9 @@ Building scalable web applications with focus on performance and clean architect
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCJord&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/JCJord)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCJord&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&card_width=500)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JCJord&theme=dark&layout=donut&hide_border=true)
 
 ---
 
@@ -20,7 +22,7 @@ Building scalable web applications with focus on performance and clean architect
 
 **Languages:** JavaScript, TypeScript  
 **Frontend:** Vue.js, Angular, HTML5, CSS3, Sass  
-**Backend:** Node.js, Java, C
+**Backend:** Node.js  
 **DevOps:** Docker  
 
 ---
@@ -38,11 +40,3 @@ Building scalable web applications with focus on performance and clean architect
 ## Featured Projects
 
 Visit my [repositories](https://github.com/JCJord?tab=repositories) to see recent work.
-
----
-
-## Contact
-
-📧 [juliojc.jord@gmail.com](mailto:juliojc.jord@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/jc-jord/)  
-💬 [Telegram](https://t.me/Jcjord)
