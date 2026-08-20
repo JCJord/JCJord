@@ -10,11 +10,14 @@ Building scalable web applications with focus on performance and clean architect
 
 ---
 
-## GitHub Stats
+## Quick Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCJord&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
+Visit my GitHub profile to see:
+- Contribution graph
+- Repository activity
+- Language breakdown by project
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JCJord&theme=dark&layout=donut&hide_border=true&cache_seconds=86400)
+[View GitHub Profile](https://github.com/JCJord)
 
 ---
 
