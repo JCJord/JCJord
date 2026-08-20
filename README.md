@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1555099962-4199c345e5dd?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" alt="Developer Banner" width="100%" style="border-radius: 10px;" />
-
+<div align="center">
+  <img src="https://i.pinimg.com/originals/a4/96/c2/a496c2b6bc5d7face0defbaf5456d2eb.gif" alt="Retro Anime Loop" width="100%" style="border-radius: 10px;" />
+</div>
   <br />
   <br />
 
