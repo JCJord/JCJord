@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a4/96/c2/a496c2b6bc5d7face0defbaf5456d2eb.gif" alt="Retro Anime Loop" width="100%" style="border-radius: 10px;" />
+  <img src="[https://i.pinimg.com/originals/a4/96/c2/a496c2b6bc5d7face0defbaf5456d2eb.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGp5ZDU3ZDk2dmY2Nmp1bmF0dXJmNjhpcGs1eHVwODF0bnQ1ZzYzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b29IZK1dP4aWs/giphy.gif)" alt="Retro Anime Loop" width="100%" style="border-radius: 10px;" />
 </div>
   <br />
   <br />
