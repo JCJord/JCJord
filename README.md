@@ -1,24 +1,48 @@
 # Júlio César
 
-<a href="https://github.com/JCJord">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JCJord&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCJord&layout=compact&langs_count=12&theme=dark&hide_progress=false"/>
-</a>
+Full Stack Developer | JavaScript • TypeScript • Vue.js • Node.js • Docker
 
-## Tech
+---
 
-<img alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-<img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<img alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-<img alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-<img alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+## About
+
+Building scalable web applications with focus on performance and clean architecture. Experienced in frontend, backend, and DevOps.
+
+---
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JCJord&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/JCJord)
+
+---
+
+## Tech Stack
+
+**Languages:** JavaScript, TypeScript  
+**Frontend:** Vue.js, Angular, HTML5, CSS3, Sass  
+**Backend:** Node.js, Java, C
+**DevOps:** Docker  
+
+---
+
+## What I Do
+
+- Full stack web application development
+- API design and implementation
+- Frontend optimization and performance
+- Docker containerization and deployment
+- Clean code and architecture patterns
+
+---
+
+## Featured Projects
+
+Visit my [repositories](https://github.com/JCJord?tab=repositories) to see recent work.
+
+---
 
 ## Contact
 
-<a href="mailto:juliojc.jord@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/jc-jord/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://t.me/Jcjord"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+📧 [juliojc.jord@gmail.com](mailto:juliojc.jord@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jc-jord/)  
+💬 [Telegram](https://t.me/Jcjord)
