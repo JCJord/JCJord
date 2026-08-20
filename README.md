@@ -60,8 +60,7 @@ Building scalable web applications with a strong focus on full-stack development
 ## 📊 Quick Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JCJord&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCJord&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JCJord&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <br>
