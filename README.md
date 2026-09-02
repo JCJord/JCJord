@@ -1,63 +1,63 @@
 <div align="center">
-<div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGp5ZDU3ZDk2dmY2Nmp1bmF0dXJmNjhpcGs1eHVwODF0bnQ1ZzYzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b29IZK1dP4aWs/giphy.gif" alt="Retro Anime Loop" width="100%" style="border-radius: 10px;" />
-</div>
+
   <br />
   <br />
 
-  <h1>Hi there, I'm Júlio César 👋</h1>
-  <h3>Full Stack Developer | Angular • Node.js • TypeScript • Java • C • Docker</h3>
+  <h1>Olá, eu sou o Júlio César 👋</h1>
+  <h3>Desenvolvedor Full Stack (Pleno / Sênior) | Angular • Node.js • TypeScript</h3>
+  <p><strong>+5 anos de experiência corporativa</strong> desenvolvendo aplicações web escaláveis e de alta performance com <strong>Angular & Node.js</strong>.</p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
-Building scalable web applications with a strong focus on full-stack development interfaces, performance, and clean architecture. I enjoy tackling complex DOM-dependent visual layout challenges and building deterministic, programmatic solutions. Experienced across frontend, backend, and containerized development environments on Linux.
-
----
-
-## 🚀 What I Do
-
-- ⚡ **Full-stack web application development** and interface design
-- 🧩 **Complex architectural problem-solving** (e.g., dynamic DOM scaling and pagination)
-- 📱 **Mobile-first UI development** and component routing
-- 🐳 **Docker containerization**, database management, and deployment
-- 🏗️ **Clean code** and architecture patterns
+Desenvolvedor Full Stack com sólida trajetória no desenvolvimento de sistemas corporativos, arquitetura escalável e interfaces de alto desempenho. Ampla experiência prática na resolução de desafios complexos e determinísticos de renderização/DOM, consumo e modelagem resiliente de APIs RESTful, e sustentação de ambientes conteinerizados em Linux.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 O Que Eu Faço
 
-**Languages**<br>
+- ⚡ **Desenvolvimento Full Stack Corporativo** focado no ecossistema Angular & Node.js
+- 🧩 **Resolução de problemas arquiteturais complexos** (escalabilidade de DOM, paginação dinâmica e otimização de performance)
+- 📱 **Construção de UIs modernas e reativas** (Angular 15+, RxJS, Signals, Tailwind/SCSS)
+- 🐳 **Containerização com Docker**, modelagem de bancos de dados e ambientes Linux
+- 🏗️ **Engenharia de Software de Qualidade** com Clean Code, princípios SOLID e testes automatizados
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+**Linguagens**<br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**Frontend**<br>
+**Front-End**<br>
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-**Backend**<br>
+**Back-End**<br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-**DevOps & Environment**<br>
+**DevOps & Ambiente**<br>
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Ubuntu Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-**Tools**<br>
+**Ferramentas & Fluxos**<br>
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 <br>
-*AI Engineering workflows (Claude, Antigravity)*
+*Workflows de Engenharia com IA (Claude, Antigravity)*
 
 ---
 
-## 📊 GitHub Streak
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JCJord&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -67,6 +67,6 @@ Building scalable web applications with a strong focus on full-stack development
 
 <div align="center">
   <a href="https://github.com/JCJord?tab=repositories">
-    <img src="https://img.shields.io/badge/View_My_Active_Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
+    <img src="https://img.shields.io/badge/Ver_Meus_Reposit%C3%B3rios_Ativos-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositórios" />
   </a>
 </div>
