@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGp5ZDU3ZDk2dmY2Nmp1bmF0dXJmNjhpcGs1eHVwODF0bnQ1ZzYzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b29IZK1dP4aWs/giphy.gif" alt="Retro Anime Loop" width="100%" style="border-radius: 10px;" />
 
   <br />
   <br />
