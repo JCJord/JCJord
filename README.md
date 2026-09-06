@@ -1,71 +1,42 @@
 <div align="center">
-
-  <br />
-  <br />
-
   <h1>Olá, eu sou o Júlio César 👋</h1>
-  <h3>Desenvolvedor Full Stack (Pleno / Sênior) | Angular • Node.js • TypeScript</h3>
-  <p><strong>+5 anos de experiência corporativa</strong> desenvolvendo aplicações web escaláveis e de alta performance com <strong>Angular & Node.js</strong>.</p>
+  <h3>Desenvolvedor Front-End Sênior (Angular • TypeScript • Node.js)</h3>
+  <p><strong>Quase 5 anos de experiência corporativa</strong> desenvolvendo plataformas SaaS escaláveis, sistemas de alta complexidade e interfaces reativas de alto desempenho.</p>
+  <p>
+    <a href="https://linkedin.com/in/juliojordao" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:juliojc.jord@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
-
 ---
-
 ## 👨‍💻 Sobre Mim
-
-Desenvolvedor Full Stack com sólida trajetória no desenvolvimento de sistemas corporativos, arquitetura escalável e interfaces de alto desempenho. Ampla experiência prática na resolução de desafios complexos e determinísticos de renderização/DOM, consumo e modelagem resiliente de APIs RESTful, e sustentação de ambientes conteinerizados em Linux.
-
+Desenvolvedor Front-End com sólida trajetória na arquitetura, desenvolvimento e sustentação de sistemas corporativos de missão crítica (SaaS B2B empresarial). Especialista no ecossistema **Angular (versões 14 a 18)** e **TypeScript**, atuando com liderança técnica, alta autonomia e foco absoluto em qualidade de código, performance de renderização no DOM, componentização modular e arquiteturas escaláveis integradas a backends em **Node.js**.
 ---
-
-## 🚀 O Que Eu Faço
-
-- ⚡ **Desenvolvimento Full Stack Corporativo** focado no ecossistema Angular & Node.js
-- 🧩 **Resolução de problemas arquiteturais complexos** (escalabilidade de DOM, paginação dinâmica e otimização de performance)
-- 📱 **Construção de UIs modernas e reativas** (Angular 15+, RxJS, Signals, Tailwind/SCSS)
-- 🐳 **Containerização com Docker**, modelagem de bancos de dados e ambientes Linux
-- 🏗️ **Engenharia de Software de Qualidade** com Clean Code, princípios SOLID e testes automatizados
-
+## 🚀 Especialidades & O Que Eu Faço
+- ⚡ **Arquitetura Front-End Corporativa:** Standalone Components, Micro-frontends (Webpack Module Federation), Modularização e Lazy Loading.
+- 🔄 **Reatividade Avançada & Streams:** Domínio profundo de **RxJS** (Streams, Observables, Operators, mitigação de memory leaks) e **Angular Signals**.
+- 📊 **Telas Densas & Performance:** Construção de Grids/Tabelas analíticas de alto desempenho (`ChangeDetectionStrategy.OnPush`), formulários reativos tipados complexos e motores de geração de relatórios massivos.
+- 🔌 **Integração de APIs RESTful:** HTTP Interceptors (JWT, cache, normalização de erros) e integração resiliente com backends em **Node.js** e PostgreSQL.
+- 🐳 **Containerização & DevOps:** Ambientes conteinerizados com **Docker**, scripts de automação e servidores Linux (Ubuntu).
+- 🛡️ **Qualidade & Boas Práticas:** Clean Code, princípios SOLID, DDD, testes automatizados (Karma/Jasmine/Jest/Cypress) e governança com Gitflow.
 ---
-
 ## 🛠️ Tecnologias & Ferramentas
-
-**Linguagens**<br>
+**Core Front-End & Frameworks**<br>
+![Angular](https://img.shields.io/badge/Angular_15+_--_18-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-**Front-End**<br>
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-**Back-End**<br>
+![Sass](https://img.shields.io/badge/SCSS_/_Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Backend & APIs**<br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-**DevOps & Ambiente**<br>
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Ubuntu Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-**Ferramentas & Fluxos**<br>
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
-<br>
-*Workflows de Engenharia com IA (Claude, Antigravity)*
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JCJord&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/JCJord?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver_Meus_Reposit%C3%B3rios_Ativos-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositórios" />
-  </a>
-</div>
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/RESTful_APIs-0284C7?style=for-the-badge&logo=postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Qualidade, DevOps & Ferramentas**<br>
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
