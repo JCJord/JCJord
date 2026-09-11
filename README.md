@@ -1,8 +1,8 @@
 <div align="center">
   <br />
   <h1>Júlio César Jordão</h1>
-  <h3>Desenvolvedor Front-End Sênior (Angular • TypeScript • Node.js)</h3>
-  <p><strong>Quase 5 anos de experiência corporativa</strong> no desenvolvimento e sustentação de plataformas SaaS B2B, sistemas de alta complexidade e interfaces de alta performance.</p>
+  <h3>Desenvolvedor Full Stack (Angular • Node.js • NestJS • TypeScript)</h3>
+  <p><strong>Quase 5 anos de experiência corporativa</strong> na concepção, desenvolvimento e sustentação de plataformas SaaS B2B, APIs resilientes e arquiteturas web escaláveis.</p>
 
   <p>
     <a href="https://linkedin.com/in/juliojordao" target="_blank">
@@ -18,49 +18,49 @@
 
 <h2>Sobre Mim</h2>
 <p>
-  Desenvolvedor Front-End com sólida trajetória na arquitetura, desenvolvimento e sustentação de sistemas corporativos de missão crítica (SaaS B2B empresarial). Especialista no ecossistema <strong>Angular (versões 14 a 18)</strong> e <strong>TypeScript</strong>, atuando com liderança técnica, alta autonomia e foco rigoroso em qualidade de código, performance de renderização no DOM, componentização modular e integração resiliente com serviços de backend em <strong>Node.js</strong>.
+  Desenvolvedor Full Stack com sólida trajetória na arquitetura, desenvolvimento e sustentação de sistemas corporativos de ponta a ponta (SaaS B2B empresarial). Domínio avançado do ecossistema <strong>Angular (versões 14 a 18)</strong> e <strong>TypeScript</strong> no front-end, aliado à construção de APIs RESTful estruturadas em <strong>Node.js (NestJS / Express)</strong>, modelagem relacional em <strong>PostgreSQL</strong>, conteinerização com <strong>Docker</strong> e integração contínua com microsserviços e pipelines analíticos de dados.
 </p>
 
 <hr />
 
 <h2>Áreas de Especialidade & Domínio Técnico</h2>
 <ul>
-  <li><strong>Arquitetura Front-End Corporativa:</strong> Standalone Components, Micro-frontends (Webpack Module Federation), Arquitetura Modular e Lazy Loading.</li>
-  <li><strong>Reatividade Avançada & Streams:</strong> Domínio de <strong>RxJS</strong> (Streams, Observables, Operators, mitigação de memory leaks) e <strong>Angular Signals</strong>.</li>
-  <li><strong>Telas Densas & Otimização de Performance:</strong> Construção de Grids/Tabelas corporativas de alto desempenho (<code>ChangeDetectionStrategy.OnPush</code>), formulários reativos tipados complexos e motores de geração de relatórios massivos.</li>
-  <li><strong>Integração de APIs RESTful:</strong> HTTP Interceptors (JWT, cache, tratamento e normalização de erros) e integração resiliente com backends em <strong>Node.js</strong> e PostgreSQL.</li>
-  <li><strong>Containerização & Infraestrutura:</strong> Ambientes conteinerizados com <strong>Docker</strong>, scripts de automação e servidores Linux.</li>
-  <li><strong>Engenharia de Software & Qualidade:</strong> Clean Code, princípios SOLID, DDD, testes automatizados (Karma, Jasmine, Jest, Cypress) e governança de código com Gitflow.</li>
+  <li><strong>Front-End Moderno & Performance:</strong> Arquitetura com Standalone Components, Angular Signals, Change Detection (<code>OnPush</code>), Lazy Loading e formulários reativos tipados (<code>NonNullableFormBuilder</code>).</li>
+  <li><strong>Reatividade Avançada & Streams:</strong> Domínio de <strong>RxJS</strong> (Streams, Observables, Operators encadeados, mitigação sistemática de memory leaks via <code>takeUntilDestroyed</code>).</li>
+  <li><strong>Back-End & Arquitetura de APIs:</strong> Desenvolvimento de microsserviços e APIs RESTful em <strong>NestJS</strong> e <strong>Express</strong>, injeção de dependências, validação rigorosa via DTOs tipados e autenticação segura com JWT.</li>
+  <li><strong>Persistência de Dados & Cache:</strong> Modelagem relacional, estruturação de esquemas e queries otimizadas em <strong>PostgreSQL</strong>, além de camadas de cache e mensageria com <strong>Redis</strong>.</li>
+  <li><strong>Integração de Sistemas & Nuvem:</strong> Comunicação e consumo de APIs analíticas, HTTP Interceptors, deploy e manutenção de ambientes em nuvem (<strong>AWS EC2 / S3</strong>).</li>
+  <li><strong>DevOps & Qualidade de Software:</strong> Ambientes padronizados com <strong>Docker</strong> e Docker Compose, pipelines de CI/CD, testes automatizados (Jest, Karma) e governança ágil com Gitflow.</li>
 </ul>
 
 <hr />
 
 <h2>Tecnologias & Ferramentas</h2>
 
-<h3>Front-End & Core</h3>
+<h3>Front-End</h3>
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 </p>
 
 <h3>Back-End & Banco de Dados</h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
-<h3>Qualidade & DevOps</h3>
+<h3>DevOps, Cloud & Qualidade</h3>
 <p>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
@@ -70,13 +70,13 @@
 <h2>Estatísticas & Atividade</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JCJord&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliojcj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/JCJord?tab=repositories">
+  <a href="https://github.com/juliojcj?tab=repositories">
     <img src="https://img.shields.io/badge/Ver_Meus_Reposit%C3%B3rios_Ativos-100000?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositórios" />
   </a>
 </div>
